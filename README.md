@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/foevertigo/DSA/tree/main/0133-clone-graph/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/foevertigo/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
@@ -23,13 +24,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/foevertigo/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/foevertigo/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/foevertigo/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/foevertigo/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/foevertigo/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/foevertigo/DSA/tree/main/0133-clone-graph/) | Medium |
 <!---LeetCode Topics End-->
