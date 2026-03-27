@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/foevertigo/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/foevertigo/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/foevertigo/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Union-Find
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/foevertigo/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/foevertigo/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/foevertigo/DSA/tree/main/0210-course-schedule-ii/) | Medium |
+| [0332-reconstruct-itinerary](https://github.com/foevertigo/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/foevertigo/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
@@ -29,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/foevertigo/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/foevertigo/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/foevertigo/DSA/tree/main/0210-course-schedule-ii/) | Medium |
+| [0332-reconstruct-itinerary](https://github.com/foevertigo/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/foevertigo/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -50,4 +53,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/foevertigo/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/foevertigo/DSA/tree/main/0210-course-schedule-ii/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/foevertigo/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/foevertigo/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/foevertigo/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Eulerian Circuit
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/foevertigo/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
 <!---LeetCode Topics End-->
