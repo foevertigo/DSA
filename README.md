@@ -6,12 +6,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/foevertigo/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/foevertigo/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/foevertigo/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/foevertigo/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/foevertigo/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/foevertigo/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/foevertigo/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Graph Theory
@@ -31,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/foevertigo/DSA/tree/main/0133-clone-graph/) | Medium |
+| [0200-number-of-islands](https://github.com/foevertigo/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/foevertigo/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/foevertigo/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/foevertigo/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
@@ -40,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/foevertigo/DSA/tree/main/0133-clone-graph/) | Medium |
+| [0200-number-of-islands](https://github.com/foevertigo/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/foevertigo/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/foevertigo/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/foevertigo/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -47,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/foevertigo/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/foevertigo/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
