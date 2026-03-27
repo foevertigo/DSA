@@ -1,46 +1,46 @@
 class Solution {
-
-    ArrayList<ArrayList<Integer>> adj;
-    int[] vis; // 0 = unvisited, 1 = visiting, 2 = visited
-
     public boolean canFinish(int numCourses, int[][] prerequisites) {
+        
 
-        adj = new ArrayList<>();
-        for (int i = 0; i <= numCourses; i++) {
+        //build adj
+
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+
+        for(int i=0; i<numCourses;i++) {
             adj.add(new ArrayList<>());
         }
 
-        // build graph
-        for (int[] p : prerequisites) {
-            int u = p[1];
-            int v = p[0];
-            adj.get(u).add(v);
+        for(int[] p: prerequisites) {
+            int u = p[0];
+            int v = p[1];
+            adj.get(v).add(u);
         }
 
-        vis = new int[numCourses];
 
-        for (int i = 0; i < numCourses; i++) {
-            if (vis[i] == 0) {
-                if (dfs(i)) return false; // cycle found
+        //dfs call
+        int[] visited = new int[numCourses];
+        for(int i=0; i<numCourses;i++) {
+            if(dfs(i,adj,visited)) {
+                return false; //cycle = empty
             }
         }
-
         return true;
+
     }
 
-    boolean dfs(int node) {
+    public boolean dfs(int node, ArrayList<ArrayList<Integer>> adj, int[] visited) {
+        if(visited[node]==1) return true; //cycle
+        if(visited[node]==2) return false;
 
-        vis[node] = 1; // visiting
-
-        for (int nei : adj.get(node)) {
-            if (vis[nei]==0) {
-                if (dfs(nei)) return true;
-            } else if (vis[nei] == 1) {
-                return true; // cycle
-            }
+        visited[node] = 1;
+        for(int neigh : adj.get(node)) {
+            if(dfs(neigh, adj, visited)) return true;
         }
 
-        vis[node] = 2; // done
+        visited[node] = 2;
         return false;
+
     }
+
+
 }
