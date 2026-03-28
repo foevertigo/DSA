@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/foevertigo/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/foevertigo/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/foevertigo/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/foevertigo/DSA/tree/main/0200-number-of-islands/) | Medium |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/foevertigo/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/foevertigo/DSA/tree/main/0133-clone-graph/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/foevertigo/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/foevertigo/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
