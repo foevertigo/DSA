@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0332-reconstruct-itinerary](https://github.com/foevertigo/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0547-number-of-provinces](https://github.com/foevertigo/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/foevertigo/DSA/tree/main/0684-redundant-connection/) | Medium |
+| [0743-network-delay-time](https://github.com/foevertigo/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/foevertigo/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/foevertigo/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/foevertigo/DSA/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/foevertigo/DSA/tree/main/0695-max-area-of-island/) | Medium |
+| [0743-network-delay-time](https://github.com/foevertigo/DSA/tree/main/0743-network-delay-time/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/foevertigo/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/foevertigo/DSA/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/foevertigo/DSA/tree/main/0695-max-area-of-island/) | Medium |
+| [0743-network-delay-time](https://github.com/foevertigo/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0994-rotting-oranges](https://github.com/foevertigo/DSA/tree/main/0994-rotting-oranges/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -94,8 +97,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/foevertigo/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
+| [0743-network-delay-time](https://github.com/foevertigo/DSA/tree/main/0743-network-delay-time/) | Medium |
 ## Eulerian Circuit
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/foevertigo/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/foevertigo/DSA/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
