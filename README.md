@@ -120,9 +120,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/foevertigo/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/foevertigo/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/foevertigo/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/foevertigo/DSA/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/foevertigo/DSA/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
