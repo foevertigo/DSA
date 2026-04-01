@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/foevertigo/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/foevertigo/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/foevertigo/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0611-valid-triangle-number](https://github.com/foevertigo/DSA/tree/main/0611-valid-triangle-number/) | Medium |
 | [0695-max-area-of-island](https://github.com/foevertigo/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/foevertigo/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/foevertigo/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/foevertigo/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
+| [0611-valid-triangle-number](https://github.com/foevertigo/DSA/tree/main/0611-valid-triangle-number/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0611-valid-triangle-number](https://github.com/foevertigo/DSA/tree/main/0611-valid-triangle-number/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/foevertigo/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -136,4 +139,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/foevertigo/DSA/tree/main/0070-climbing-stairs/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0611-valid-triangle-number](https://github.com/foevertigo/DSA/tree/main/0611-valid-triangle-number/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0611-valid-triangle-number](https://github.com/foevertigo/DSA/tree/main/0611-valid-triangle-number/) | Medium |
 <!---LeetCode Topics End-->
