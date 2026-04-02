@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/foevertigo/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/foevertigo/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/foevertigo/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0909-snakes-and-ladders](https://github.com/foevertigo/DSA/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0994-rotting-oranges](https://github.com/foevertigo/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/foevertigo/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Union-Find
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/foevertigo/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/foevertigo/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/foevertigo/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0909-snakes-and-ladders](https://github.com/foevertigo/DSA/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0994-rotting-oranges](https://github.com/foevertigo/DSA/tree/main/0994-rotting-oranges/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/foevertigo/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/foevertigo/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/foevertigo/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0909-snakes-and-ladders](https://github.com/foevertigo/DSA/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0994-rotting-oranges](https://github.com/foevertigo/DSA/tree/main/0994-rotting-oranges/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
