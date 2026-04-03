@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/foevertigo/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/foevertigo/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/foevertigo/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/foevertigo/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/foevertigo/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/foevertigo/DSA/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0994-rotting-oranges](https://github.com/foevertigo/DSA/tree/main/0994-rotting-oranges/) | Medium |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/foevertigo/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/foevertigo/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/foevertigo/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0229-majority-element-ii](https://github.com/foevertigo/DSA/tree/main/0229-majority-element-ii/) | Medium |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/foevertigo/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,4 +160,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/foevertigo/DSA/tree/main/0229-majority-element-ii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/foevertigo/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/foevertigo/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 <!---LeetCode Topics End-->
