@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/foevertigo/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/foevertigo/DSA/tree/main/0130-surrounded-regions/) | Medium |
+| [0189-rotate-array](https://github.com/foevertigo/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/foevertigo/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0229-majority-element-ii](https://github.com/foevertigo/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/foevertigo/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/foevertigo/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0189-rotate-array](https://github.com/foevertigo/DSA/tree/main/0189-rotate-array/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/foevertigo/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0611-valid-triangle-number](https://github.com/foevertigo/DSA/tree/main/0611-valid-triangle-number/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
