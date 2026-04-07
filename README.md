@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/foevertigo/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/foevertigo/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0229-majority-element-ii](https://github.com/foevertigo/DSA/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/foevertigo/DSA/tree/main/0268-missing-number/) | Easy |
 | [0332-reconstruct-itinerary](https://github.com/foevertigo/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/foevertigo/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0611-valid-triangle-number](https://github.com/foevertigo/DSA/tree/main/0611-valid-triangle-number/) | Medium |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/foevertigo/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/foevertigo/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0229-majority-element-ii](https://github.com/foevertigo/DSA/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/foevertigo/DSA/tree/main/0268-missing-number/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/foevertigo/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/foevertigo/DSA/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/foevertigo/DSA/tree/main/0268-missing-number/) | Easy |
 | [0332-reconstruct-itinerary](https://github.com/foevertigo/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0611-valid-triangle-number](https://github.com/foevertigo/DSA/tree/main/0611-valid-triangle-number/) | Medium |
 ## Heap (Priority Queue)
@@ -144,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/foevertigo/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0268-missing-number](https://github.com/foevertigo/DSA/tree/main/0268-missing-number/) | Easy |
 | [0611-valid-triangle-number](https://github.com/foevertigo/DSA/tree/main/0611-valid-triangle-number/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/foevertigo/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 ## Math
@@ -151,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/foevertigo/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/foevertigo/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/foevertigo/DSA/tree/main/0268-missing-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,4 +185,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/foevertigo/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/foevertigo/DSA/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
