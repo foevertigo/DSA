@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/foevertigo/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/foevertigo/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0229-majority-element-ii](https://github.com/foevertigo/DSA/tree/main/0229-majority-element-ii/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/foevertigo/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/foevertigo/DSA/tree/main/0268-missing-number/) | Easy |
 | [0332-reconstruct-itinerary](https://github.com/foevertigo/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/foevertigo/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/foevertigo/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/foevertigo/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0743-network-delay-time](https://github.com/foevertigo/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/foevertigo/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -192,4 +194,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/foevertigo/DSA/tree/main/0268-missing-number/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/foevertigo/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/foevertigo/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/foevertigo/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
