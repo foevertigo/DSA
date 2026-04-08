@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/foevertigo/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/foevertigo/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/foevertigo/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/foevertigo/DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/foevertigo/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0611-valid-triangle-number](https://github.com/foevertigo/DSA/tree/main/0611-valid-triangle-number/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/foevertigo/DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,12 +187,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/foevertigo/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/foevertigo/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/foevertigo/DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/foevertigo/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/foevertigo/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/foevertigo/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/foevertigo/DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/foevertigo/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -217,8 +221,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/foevertigo/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/foevertigo/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/foevertigo/DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/foevertigo/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/foevertigo/DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
