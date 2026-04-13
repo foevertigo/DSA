@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0909-snakes-and-ladders](https://github.com/foevertigo/DSA/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0994-rotting-oranges](https://github.com/foevertigo/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/foevertigo/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [1848-minimum-distance-to-the-target-element](https://github.com/foevertigo/DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
