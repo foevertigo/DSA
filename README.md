@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/foevertigo/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/foevertigo/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/foevertigo/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/foevertigo/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0818-race-car](https://github.com/foevertigo/DSA/tree/main/0818-race-car/) | Hard |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/foevertigo/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/foevertigo/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/foevertigo/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0189-rotate-array](https://github.com/foevertigo/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/foevertigo/DSA/tree/main/0268-missing-number/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/foevertigo/DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/foevertigo/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/foevertigo/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/foevertigo/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/foevertigo/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -201,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/foevertigo/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/foevertigo/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/foevertigo/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/foevertigo/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -230,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/foevertigo/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/foevertigo/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/foevertigo/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/foevertigo/DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
