@@ -1,6 +1,6 @@
 class Solution {
     public int numTrees(int n) {
-        int[] memo = new int[n + 1];
+        int[] memo = new int[n + 1];   //memo index is number of nodes and value are unique bst count
         return count(n, memo);
     }
 
