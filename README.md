@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/foevertigo/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/foevertigo/DSA/tree/main/0268-missing-number/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/foevertigo/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/foevertigo/DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/foevertigo/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/foevertigo/DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3110-score-of-a-string](https://github.com/foevertigo/DSA/tree/main/3110-score-of-a-string/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/foevertigo/DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
