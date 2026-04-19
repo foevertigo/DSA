@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-swim-in-rising-water](https://github.com/foevertigo/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/foevertigo/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/foevertigo/DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/foevertigo/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/foevertigo/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/foevertigo/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/foevertigo/DSA/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0994-rotting-oranges](https://github.com/foevertigo/DSA/tree/main/0994-rotting-oranges/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/foevertigo/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/foevertigo/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/foevertigo/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/foevertigo/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/foevertigo/DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/foevertigo/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/foevertigo/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -239,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/foevertigo/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/foevertigo/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/foevertigo/DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/foevertigo/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/foevertigo/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
