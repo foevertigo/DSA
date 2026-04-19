@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/foevertigo/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/foevertigo/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/foevertigo/DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/foevertigo/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/foevertigo/DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/foevertigo/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/foevertigo/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/foevertigo/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/foevertigo/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/foevertigo/DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3110-score-of-a-string](https://github.com/foevertigo/DSA/tree/main/3110-score-of-a-string/) | Easy |
 ## Sorting
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/foevertigo/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/foevertigo/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
