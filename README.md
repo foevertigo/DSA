@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/foevertigo/DSA/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/foevertigo/DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/foevertigo/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/foevertigo/DSA/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/foevertigo/DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-swim-in-rising-water](https://github.com/foevertigo/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0909-snakes-and-ladders](https://github.com/foevertigo/DSA/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0994-rotting-oranges](https://github.com/foevertigo/DSA/tree/main/0994-rotting-oranges/) | Medium |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/foevertigo/DSA/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/foevertigo/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0229-majority-element-ii](https://github.com/foevertigo/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/foevertigo/DSA/tree/main/0268-missing-number/) | Easy |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/foevertigo/DSA/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/foevertigo/DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/foevertigo/DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Topological Sort
