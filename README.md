@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0909-snakes-and-ladders](https://github.com/foevertigo/DSA/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0994-rotting-oranges](https://github.com/foevertigo/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/foevertigo/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/foevertigo/DSA/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/foevertigo/DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/foevertigo/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/foevertigo/DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0332-reconstruct-itinerary](https://github.com/foevertigo/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/foevertigo/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/foevertigo/DSA/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/foevertigo/DSA/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/foevertigo/DSA/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/foevertigo/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/foevertigo/DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -265,4 +267,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/foevertigo/DSA/tree/main/2000-reverse-prefix-of-word/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/foevertigo/DSA/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 <!---LeetCode Topics End-->
