@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0079-word-search](https://github.com/foevertigo/DSA/tree/main/0079-word-search/) | Medium |
 | [0127-word-ladder](https://github.com/foevertigo/DSA/tree/main/0127-word-ladder/) | Hard |
+| [0227-basic-calculator-ii](https://github.com/foevertigo/DSA/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/foevertigo/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/foevertigo/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/foevertigo/DSA/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/foevertigo/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/foevertigo/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0189-rotate-array](https://github.com/foevertigo/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/foevertigo/DSA/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0268-missing-number](https://github.com/foevertigo/DSA/tree/main/0268-missing-number/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/foevertigo/DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Memoization
@@ -286,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0227-basic-calculator-ii](https://github.com/foevertigo/DSA/tree/main/0227-basic-calculator-ii/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/foevertigo/DSA/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
