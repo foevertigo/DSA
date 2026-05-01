@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/foevertigo/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/foevertigo/DSA/tree/main/0268-missing-number/) | Easy |
 | [0332-reconstruct-itinerary](https://github.com/foevertigo/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
+| [0396-rotate-function](https://github.com/foevertigo/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/foevertigo/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0611-valid-triangle-number](https://github.com/foevertigo/DSA/tree/main/0611-valid-triangle-number/) | Medium |
 | [0695-max-area-of-island](https://github.com/foevertigo/DSA/tree/main/0695-max-area-of-island/) | Medium |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/foevertigo/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/foevertigo/DSA/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/foevertigo/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0396-rotate-function](https://github.com/foevertigo/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/foevertigo/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/foevertigo/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0818-race-car](https://github.com/foevertigo/DSA/tree/main/0818-race-car/) | Hard |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/foevertigo/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/foevertigo/DSA/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0268-missing-number](https://github.com/foevertigo/DSA/tree/main/0268-missing-number/) | Easy |
+| [0396-rotate-function](https://github.com/foevertigo/DSA/tree/main/0396-rotate-function/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/foevertigo/DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
