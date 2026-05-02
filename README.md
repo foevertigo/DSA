@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/foevertigo/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0036-valid-sudoku](https://github.com/foevertigo/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/foevertigo/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0056-merge-intervals](https://github.com/foevertigo/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/foevertigo/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/foevertigo/DSA/tree/main/0079-word-search/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/foevertigo/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/foevertigo/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0229-majority-element-ii](https://github.com/foevertigo/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/foevertigo/DSA/tree/main/0268-missing-number/) | Easy |
 | [0332-reconstruct-itinerary](https://github.com/foevertigo/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
