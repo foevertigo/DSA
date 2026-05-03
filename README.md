@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/foevertigo/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0036-valid-sudoku](https://github.com/foevertigo/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/foevertigo/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/foevertigo/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/foevertigo/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/foevertigo/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/foevertigo/DSA/tree/main/0075-sort-colors/) | Medium |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/foevertigo/DSA/tree/main/0036-valid-sudoku/) | Medium |
+| [0049-group-anagrams](https://github.com/foevertigo/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0127-word-ladder](https://github.com/foevertigo/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/foevertigo/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0229-majority-element-ii](https://github.com/foevertigo/DSA/tree/main/0229-majority-element-ii/) | Medium |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/foevertigo/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0079-word-search](https://github.com/foevertigo/DSA/tree/main/0079-word-search/) | Medium |
 | [0127-word-ladder](https://github.com/foevertigo/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/foevertigo/DSA/tree/main/0227-basic-calculator-ii/) | Medium |
@@ -162,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/foevertigo/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/foevertigo/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/foevertigo/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0229-majority-element-ii](https://github.com/foevertigo/DSA/tree/main/0229-majority-element-ii/) | Medium |
